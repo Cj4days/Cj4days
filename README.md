@@ -27,4 +27,4 @@ Usually tinkering with side projects, trying out whatever new AI tooling just dr
 
 ### Say hi
 
-[LinkedIn](https://www.linkedin.com/in/cole-jones-667260140/) · [Synack Acropolis](https://acropolis.synack.com/inductees/cole) · Hack The Box: **Cj4days**
+[LinkedIn](https://www.linkedin.com/in/cole-jones-667260140/) · Hack The Box: **Cj4days**
