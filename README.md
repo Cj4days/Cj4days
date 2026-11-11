@@ -23,7 +23,7 @@ On the Synack Red Team I've ranked in the top 50 globally with 200+ verified bug
 
 ### My AI stack
 
-- **Claude Code / Claude Cowork** on the Max plan
+- **Claude Code / Claude Cowork** on the Ultra plan
 - **OpenClaw** for running my own agents
 
 ### Off the clock
