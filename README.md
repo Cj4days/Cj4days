@@ -23,8 +23,8 @@ On the Synack Red Team I've ranked in the top 50 globally with 200+ verified bug
 
 ### Off the clock
 
-Usually tinkering with side projects, trying out whatever new AI tooling just dropped, or watching esports.
+Usually playing video games or following esports and the NBA.
 
 ### Say hi
 
-[LinkedIn](https://www.linkedin.com/in/cole-jones-667260140/) · Hack The Box: **Cj4days**
+[LinkedIn](https://www.linkedin.com/in/cole-jones-667260140/) · [Synack Acropolis](https://acropolis.synack.com/inductees/cole) · Hack The Box: **Cj4days**
