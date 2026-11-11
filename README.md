@@ -21,6 +21,11 @@ I work in product security: taking vulnerability reports from first triage to fi
 
 On the Synack Red Team I've ranked in the top 50 globally with 200+ verified bugs, picked up a Hero Award and been inducted into the [Synack Acropolis](https://acropolis.synack.com/inductees/cole).
 
+### My AI stack
+
+- **Claude Code / Claude Cowork** on the Max plan
+- **OpenClaw** for running my own agents
+
 ### Off the clock
 
 Usually playing video games or following esports and the NBA.
